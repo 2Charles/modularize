@@ -6,7 +6,7 @@ import numpy as np
 import re
 import matplotlib.pylab as plt
 import seaborn as sns
-import os   
+import os
 import corrlab
 import gc
 
